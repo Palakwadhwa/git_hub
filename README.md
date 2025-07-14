@@ -1,2 +1,3 @@
 # git_hub
-This is my github repo
+This is my github repository.
+
